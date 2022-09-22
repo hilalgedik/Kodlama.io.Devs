@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Features\Githubs\Constants\" />
     <Folder Include="Features\ProgrammingLanguages\Constants\" />
+    <Folder Include="Features\Technologies\Constants\" />
+    <Folder Include="Features\Users\Dtos\" />
+    <Folder Include="Features\Users\Models\" />
+    <Folder Include="Features\Users\Queries\" />
   </ItemGroup>
 
 	<ItemGroup>
